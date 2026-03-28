@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SacrificeSMPP.aternos.me",
+    "ip": "SacrificeSMPP.aternos.me:27687",
     "port": 27687,
     "version": "",
     "try-creative": false
